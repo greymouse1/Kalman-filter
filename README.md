@@ -16,5 +16,7 @@ Green dots true position, red crosses Kalman-filtered position.
 ![Kalman filter](/positions.png "True vs. predicted positions")
 
 ### Position differences
-Easting difference in blue, Northing difference in red. Time in minutes.
+Easting difference in blue, Northing difference in red. Time in minutes (visible only in Google Colab).
 ![Kalman filter](/coordinate_differences.png "True vs. predicted positions")
+
+Code for Kalman filter is based on example at https://automaticaddison.com/extended-kalman-filter-ekf-with-python-code-example/
