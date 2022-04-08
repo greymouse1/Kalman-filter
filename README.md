@@ -17,4 +17,4 @@ Green dots true position, red crosses Kalman-filtered position.
 
 ### Position differences
 Easting difference in blue, Northing difference in red. Time in minutes.
-![Kalman filter](/positions.png "True vs. predicted positions")
+![Kalman filter](/coordinate_differences.png "True vs. predicted positions")
