@@ -11,4 +11,4 @@ Code works along the following steps:
 
 It is important to note that Kalman filter can work as smoothener or predictor. In our case, we used it as predictor. Points are available for the whole vessel trajectory but input into Kalman filter is only first 20 points, after that Kalman filter makes predictions which then can be compared to the raw "real" positions.
 
-![Kalman filter](/Kalman-filter/positions.png?raw=TRUE "True vs. predicted positions")
+![Kalman filter](/Kalman-filter/positions.png "True vs. predicted positions")
